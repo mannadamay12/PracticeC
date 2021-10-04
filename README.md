@@ -10,4 +10,11 @@ A practice repositary for C++ programming problems including advanced set of pro
 ![](https://img.shields.io/github/issues-pr-raw/mannadamay12/PracticeC?label=Open+PRs)
 ![](https://img.shields.io/github/issues-pr-closed-raw/mannadamay12/PracticeC?label=Closed+PRs)
 
+Topics covered -
+Basic IO
+Arrays
+Functions
+Patterns
+Strings
+
 Contributions are most welcome!
