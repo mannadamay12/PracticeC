@@ -12,6 +12,18 @@ problems.
 ![](https://img.shields.io/github/issues-pr-raw/mannadamay12/PracticeC?label=Open+PRs)
 ![](https://img.shields.io/github/issues-pr-closed-raw/mannadamay12/PracticeC?label=Closed+PRs)
 
-Topics covered - Basic IO Arrays Functions Patterns Strings
+Topics covered :
+<br>
+-Basic
+<br>
+-IO
+<br>
+-Arrays
+<br>
+-Functions 
+<br>
+-Patterns
+<br>
+-Strings
 
 Contributions are most welcome!
