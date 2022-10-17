@@ -1,6 +1,5 @@
 import java.util.*;
 
-// chandramohan@thapar.edu
 public class daaEval{
     public static void main(String[] args){
 
